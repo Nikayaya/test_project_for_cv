@@ -2,6 +2,7 @@
   background: url(../images/background_header.jpg) no-repeat center center;
   background-size: cover;
   height: 1100px;
+  font-family: 'Roboto', sans-serif;
 }
 .head-logo {
   float:left;
@@ -13,7 +14,6 @@
   position: relative;
   left:0.5em;
   font-size: 16px;
-  font-family: 'Roboto', sans-serif;
   color:#fff;
   line-height: 1.875;
   text-align: left;
@@ -36,11 +36,9 @@
 }
 .header-info p{
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
   color: rgb(51, 51, 51);
   width: 60%;
   padding-top:2em;
-
 }
 
 .button-share {
@@ -52,20 +50,17 @@
  
 .button-share a{
   color: #333333;
-  font-family: 'Roboto', sans-serif bold;
   font-size: 1em;
   text-transform: uppercase;
   border-radius: 3px;
   background: #f5eae9;
   padding: 20px 30px;
   text-decoration: none;
-
 }
 
 .button-share a:hover{
   background: #c19663;
   color:#fff;
-
 }
 
 
