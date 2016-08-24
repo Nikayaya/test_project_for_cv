@@ -1,0 +1,10 @@
+.features{
+	height: 400px;
+}
+
+.features h2{
+  text-align: center;
+  font-size: 42px;
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(51, 51, 51);
+}
