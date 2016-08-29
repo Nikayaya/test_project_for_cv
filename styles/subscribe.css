@@ -1,0 +1,27 @@
+.subscribtion{
+  background: url(../images/subscribe.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  font-size: 21px;
+}
+.email-block{
+  position: absolute;
+  bottom: 0px;
+  left:0;
+  background: #fff;
+  opacity:0.8;
+  width:100%;
+  height:30%;
+  padding:4em;
+  padding-left: 20em;
+}
+
+.email{
+	color:#999;
+	border: none;
+	padding-left:100px;
+	padding-right: 100px;
+	background-color: #fff;
+}

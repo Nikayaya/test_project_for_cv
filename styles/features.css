@@ -8,3 +8,7 @@
   font-family: 'Abril Fatface', cursive;
   color: rgb(51, 51, 51);
 }
+.coctails-icon{
+	background: url(../images/icons/heart.svg) no-repeat ;
+	height: 100px;
+}

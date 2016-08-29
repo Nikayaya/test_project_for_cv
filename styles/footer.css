@@ -1,0 +1,36 @@
+.footer{
+	background: #333;
+	color:#fff;
+	height:100px;
+}
+
+.bottom-nav{
+	float:right;
+}
+
+.bottom-nav ul li {
+  list-style: none;
+  padding: 1em;
+  position: relative;
+  float:left;
+  left:0.5em;
+  font-size: 16px;
+  color:#fff;
+  line-height: 2;
+  text-align: left;
+  text-shadow: 1px 1.732px 4px rgba(16, 16, 16, 0.294);
+}
+
+.bottom-nav ul li a{
+  color:#fff;
+}
+
+.footer-info p{
+	position: relative;
+	left:2em;
+	top:4em;
+}
+
+.head-logo{
+	margin-top:0.5em;
+}
