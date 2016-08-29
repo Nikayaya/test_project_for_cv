@@ -7,8 +7,56 @@
   font-size: 42px;
   font-family: 'Abril Fatface', cursive;
   color: rgb(51, 51, 51);
+  padding-bottom: 40px;
 }
-.coctails-icon{
-	background: url(../images/icons/coctails.svg) no-repeat ;
-	height: 100px;
+.features p{
+	display:block;
+	width:250px;
+	padding-left:10px;
 }
+
+.coctails-icon:before{
+	content:url(../images/icons/coctails.jpg);
+}
+
+.burger-icon:before{
+	content: url(../images/icons/burger.jpg);
+}
+.restaurant-icon:before{
+	content: url(../images/icons/pin.jpg);
+}
+
+.client-icon:before{
+	content: url(../images/icons/heart.jpg);
+}
+.reward-icon:before{
+	content: url(../images/icons/reward.jpg);
+}
+
+.service-icon:before{
+	content: url(../images/icons/service.jpg);
+}
+.coctails-icon:before,.burger-icon:before,.restaurant-icon:before,.client-icon:before,.reward-icon:before,.service-icon:before{
+	float:left;
+	padding-right: 30px;
+  position: relative;
+  top:-20px;
+}
+
+.feature-icon{
+	width:350px;
+	height:100px;
+	display:inline-block;
+	vertical-align: top;
+	padding:30px 150px;
+	padding-left: 40px;
+ }
+ .feature-icon p{
+ 	color:rgb(51, 51, 51);
+ 	font-size: 18px;
+ 	font-family: 'Roboto', sans-serif;
+  position: relative;
+  text-align: left;
+ }
+
+
