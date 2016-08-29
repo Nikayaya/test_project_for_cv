@@ -7,12 +7,16 @@
   font-size: 42px;
   font-family: 'Abril Fatface', cursive;
   color: rgb(51, 51, 51);
-  padding-bottom: 40px;
 }
 .features p{
 	display:block;
-	width:250px;
 	padding-left:10px;
+	width: 300px;
+	color:rgb(51, 51, 51);
+ 	font-size: 18px;
+ 	font-family: 'Roboto', sans-serif;
+  position: relative;
+  text-align: left;
 }
 
 .coctails-icon:before{
@@ -36,27 +40,21 @@
 .service-icon:before{
 	content: url(../images/icons/service.jpg);
 }
-.coctails-icon:before,.burger-icon:before,.restaurant-icon:before,.client-icon:before,.reward-icon:before,.service-icon:before{
+.coctails-icon:before, 
+.burger-icon:before,
+.restaurant-icon:before,
+.client-icon:before,
+.reward-icon:before,
+.service-icon:before{
 	float:left;
 	padding-right: 30px;
   position: relative;
-  top:-20px;
+  top:-10px;
 }
 
 .feature-icon{
-	width:350px;
-	height:100px;
 	display:inline-block;
-	vertical-align: top;
-	padding:30px 150px;
-	padding-left: 40px;
- }
- .feature-icon p{
- 	color:rgb(51, 51, 51);
- 	font-size: 18px;
- 	font-family: 'Roboto', sans-serif;
-  position: relative;
-  text-align: left;
+	align: center;
  }
 
 
