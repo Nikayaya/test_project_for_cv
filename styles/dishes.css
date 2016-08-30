@@ -2,6 +2,7 @@
   background: #fff;
   height: 600px;
   font-family: 'Roboto', sans-serif;
+  position: relative;
 }
 .dishes h2{
   text-align: center;
@@ -13,7 +14,7 @@
 .dishes-nav{
   position:relative;
   left:20em;
-  top:3em;
+  top:1em;
 }
 .dishes-nav ul li{
   float:left;
@@ -25,6 +26,7 @@
   color:#b8b8b8;
   text-transform: uppercase;
   padding:8px 30px;
+  text-decoration: none;
  }
 .dishes-nav a:hover , a.active{
   background: #000;
@@ -33,4 +35,25 @@
   text-decoration: none;
 }
 
+.dish-slider{
+  position:inherit;
+  bottom:0px;
+  padding:6em;
+  left:10%;
+}
 
+.dish-slider ul{
+
+  position: relative;
+
+}
+.dish-slider ul li{
+  display:block;
+  float:left;
+  padding:20px;
+}
+
+.dish-slider-arrow{
+position: relative;
+top:6em; 
+}
