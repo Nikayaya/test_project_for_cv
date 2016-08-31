@@ -1,14 +1,8 @@
-.features{
+.features {
 	height: 400px;
 }
 
-.features h2{
-  text-align: center;
-  font-size: 42px;
-  font-family: 'Abril Fatface', cursive;
-  color: rgb(51, 51, 51);
-}
-.features p{
+.features p {
 	display:block;
 	padding-left:10px;
 	padding-right: 20px;
@@ -20,42 +14,43 @@
   text-align: left;
 }
 
-.coctails-icon:before{
+.coctails-icon:before {
 	content:url(../images/icons/coctails.jpg);
 }
 
-.burger-icon:before{
+.burger-icon:before {
 	content: url(../images/icons/burger.jpg);
 }
-.restaurant-icon:before{
+.restaurant-icon:before {
 	content: url(../images/icons/pin.jpg);
 }
 
-.client-icon:before{
+.client-icon:before {
 	content: url(../images/icons/heart.jpg);
 }
-.reward-icon:before{
+.reward-icon:before {
 	content: url(../images/icons/reward.jpg);
 }
 
-.service-icon:before{
+.service-icon:before {
 	content: url(../images/icons/service.jpg);
 }
+
 .coctails-icon:before, 
 .burger-icon:before,
 .restaurant-icon:before,
 .client-icon:before,
 .reward-icon:before,
-.service-icon:before{
+.service-icon:before {
 	float:left;
 	padding-right: 30px;
   position: relative;
   top:-10px;
 }
 
-.feature-icon{
+.feature-icon {
 	display:inline-block;
 	align: center;
- }
+}
 
 
