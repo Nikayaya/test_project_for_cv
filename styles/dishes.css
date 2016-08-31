@@ -1,59 +1,54 @@
-.dishes{
+.dishes {
   background: #fff;
   height: 600px;
-  font-family: 'Roboto', sans-serif;
   position: relative;
-}
-.dishes h2{
-  text-align: center;
-  font-size: 42px;
-  font-family: 'Abril Fatface', cursive;
-  color: rgb(51, 51, 51);
-}
+} 
 
-.dishes-nav{
+.dishes-nav {
   position:relative;
   left:20em;
   top:1em;
 }
-.dishes-nav ul li{
+
+.dishes-nav ul li {
   float:left;
   list-style: none;
   font-size: 18px;
   text-align: center;
 }
-.dishes-nav a{
+
+.dishes-nav a {
   color:#b8b8b8;
   text-transform: uppercase;
   padding:8px 30px;
   text-decoration: none;
  }
-.dishes-nav a:hover , a.active{
+
+.dishes-nav a:hover, a.active {
   background: #000;
   border-radius: 3px;
   padding:8px 30px;
   text-decoration: none;
 }
 
-.dish-slider{
+.dish-slider {
   position:inherit;
   bottom:0px;
   padding:6em;
   left:10%;
 }
 
-.dish-slider ul{
-
+.dish-slider ul {
   position: relative;
+} 
 
-}
-.dish-slider ul li{
+.dish-slider ul li {
   display:block;
   float:left;
   padding:20px;
 }
 
-.dish-slider-arrow{
+.dish-slider-arrow {
 position: relative;
 top:6em; 
 }
