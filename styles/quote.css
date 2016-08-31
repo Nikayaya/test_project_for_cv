@@ -1,19 +1,18 @@
-.quote{
+.quote {
   background: url(../images/musician.jpg) no-repeat center center;
   background-size: cover;
   height: 600px;
-  font-family: 'Roboto', sans-serif;
   font-style: italic;
 }
 
-.container-quotes{
+.container-quotes {
   width: 25%;
   float:right;
   position: relative;
   top:10em;
 }
 
-.quote p{
+.quote p {
   font-size: 20px;
   color:#fff;
   line-height: 2;
@@ -21,7 +20,7 @@
   text-shadow: 1px 1.732px 4px rgba(16, 16, 16, 0.294);
 }
 
-.quote span{
+.quote span {
 	font-style:normal;
 	text-transform: uppercase;
 	line-height: 5em;
