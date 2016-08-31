@@ -2,11 +2,12 @@
   background: url(../images/background_header.jpg) no-repeat center center;
   background-size: cover;
   height: 1100px;
-  font-family: 'Roboto', sans-serif;
 }
+
 .head-logo {
   float:left;
 }
+
 .top-nav ul li {
   list-style: none;
   float: left;
@@ -19,21 +20,21 @@
   text-align: left;
   text-shadow: 1px 1.732px 4px rgba(16, 16, 16, 0.294);
 }
-.top-nav ul li a{
-  color:#fff;
-}
+
 .header-info {
   clear: both;
   text-align: left;
   position: relative;
   top:800px;
 }
+
 .header-info h2{
   font-size: 51px;
   font-family: 'Abril Fatface', cursive;
   color: rgb(51, 51, 51);
   line-height: 0.6;
 }
+
 .header-info p{
   font-size: 18px;
   color: rgb(51, 51, 51);
@@ -55,7 +56,6 @@
   border-radius: 3px;
   background: #f5eae9;
   padding: 20px 30px;
-  text-decoration: none;
 }
 
 .button-share a:hover{

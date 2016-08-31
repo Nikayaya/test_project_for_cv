@@ -1,7 +1,7 @@
 .footer{
 	background: #333;
 	color:#fff;
-	height:100px;
+	height:7em;
   position: absolute;
   width: 100%;
 }
@@ -37,3 +37,4 @@
 .head-logo{
 	margin-top:0.5em;
 }
+

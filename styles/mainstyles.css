@@ -4,15 +4,18 @@
   margin-right: auto;
   margin-left: auto;
 }
+
 html {
   font-family: sans-serif;
   width: auto;
   overflow-x: hidden;
 }
+
 body {
   margin: 0;
-
+  font-family: 'Roboto', sans-serif;
 }
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
@@ -26,10 +29,12 @@ body {
   width: 100%;
   float: left;
 }
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
 }
+
 p,
 h2,
 h3 {
@@ -40,9 +45,24 @@ h2,
 h3 {
   page-break-after: avoid;
 }
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
+
+.dishes h2, .features h2 {
+  text-align: center;
+  font-size: 42px;
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(51, 51, 51);
+}
+
 .navbar {
   display: none;
 }
+
+
 
 /*responsive*/
 @media (min-width: 768px) {
