@@ -1,4 +1,4 @@
-.footer{
+.footer {
 	background: #333;
 	color:#fff;
 	height:7em;
@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.bottom-nav{
+.bottom-nav {
 	float:right;
 }
 
@@ -23,18 +23,18 @@
   text-shadow: 1px 1.732px 4px rgba(16, 16, 16, 0.294);
 }
 
-.bottom-nav ul li a{
+.bottom-nav ul li a {
   color:#fff;
   text-decoration: none;
 }
 
-.footer-info p{
+.footer-info p {
 	position: relative;
 	left:2em;
 	top:4em;
 }
 
-.head-logo{
+.head-logo {
 	margin-top:0.5em;
 }
 

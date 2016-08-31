@@ -1,13 +1,13 @@
-.day-dish{
+.day-dish {
 	background: url(../images/meal.jpg) no-repeat center center;
   background-size: cover;
   height: 600px;
-  font-family: 'Roboto', sans-serif;
   font-size: 15px;
   color:#fff;
   position: relative;
 }
-.day-dish-description{
+
+.day-dish-description {
 	width: 900px;
   height: 300px;
   background: #c19663;
